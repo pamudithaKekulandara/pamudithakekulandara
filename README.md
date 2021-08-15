@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
-### I am pamuditha Kekulandara
+## I am pamuditha Kekulandara
 
 
 
