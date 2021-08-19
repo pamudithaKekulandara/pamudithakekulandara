@@ -32,11 +32,6 @@ Here are some ideas to get you started: -->
 [<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][MySQL]
 
 
-[twitter]: https://twitter.com/SarangaSenarath
-[facebook]: https://www.facebook.com/nipun.senarath.186/
-[instagram]: https://www.instagram.com/nippa_00/
-[linkedin]: https://www.linkedin.com/in/nipun-senarath-2ab8611a7/
-
 [vscode]: https://code.visualstudio.com/
 [Github]: https://docs.github.com/en
 [HTML5]: https://www.w3.org/html/
